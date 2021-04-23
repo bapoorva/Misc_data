@@ -1,0 +1,7 @@
+projectname,date,sample_name,title,organism,maineffect,var_sorted,var_tissue
+testproject,11/21/20,WT1,,Human,wt,unsort,lung
+testproject,11/21/20,Mut1,,Human,mut,unsort,lung
+testproject,11/21/20,WT2,,Human,wt,unsort,lung
+testproject,11/21/20,Mut2,,Human,mut,unsort,lung
+testproject,11/21/20,WT3,,Human,wt,unsort,lung
+testproject,11/21/20,Mut3,,Human,mut,unsort,lung
